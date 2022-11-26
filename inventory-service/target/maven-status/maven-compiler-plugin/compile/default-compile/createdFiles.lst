@@ -1,0 +1,5 @@
+com\felixlaura\repository\InventoryRepository.class
+com\felixlaura\controller\InventoryController.class
+com\felixlaura\InventoryServiceApplication.class
+com\felixlaura\service\InventoryService.class
+com\felixlaura\model\Inventory.class

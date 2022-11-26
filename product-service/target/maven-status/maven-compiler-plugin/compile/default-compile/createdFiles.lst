@@ -1,0 +1,10 @@
+com\felixlaura\module\Product.class
+com\felixlaura\controller\ProductController.class
+com\felixlaura\dto\ProductResponse.class
+com\felixlaura\service\ProductService.class
+com\felixlaura\module\Product$ProductBuilder.class
+com\felixlaura\ProductServiceApplication.class
+com\felixlaura\repository\ProductRepository.class
+com\felixlaura\dto\ProductResponse$ProductResponseBuilder.class
+com\felixlaura\dto\ProductRequest.class
+com\felixlaura\dto\ProductRequest$ProductRequestBuilder.class
