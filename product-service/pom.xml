@@ -51,6 +51,11 @@
         </dependency>
         <!-- End: Adding Testcontainer dependency and Test Framework Integration -->
 
+        <!--        Adding Eureka client to each service (order, product, and inventory)-->
+        <dependency>
+            <groupId>org.springframework.cloud</groupId>
+            <artifactId>spring-cloud-starter-netflix-eureka-client</artifactId>
+        </dependency>
     </dependencies>
 
 </project>
