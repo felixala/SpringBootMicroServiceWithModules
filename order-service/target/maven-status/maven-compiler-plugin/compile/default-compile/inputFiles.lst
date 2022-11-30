@@ -1,8 +1,10 @@
+C:\Users\Felix Laura\Downloads\FelixFiles\ProgrammingTechie\springBootMicroServiceWithModules\order-service\src\main\java\com\felixlaura\config\WebClientConfig.java
 C:\Users\Felix Laura\Downloads\FelixFiles\ProgrammingTechie\springBootMicroServiceWithModules\order-service\src\main\java\com\felixlaura\model\OrderLineItems.java
 C:\Users\Felix Laura\Downloads\FelixFiles\ProgrammingTechie\springBootMicroServiceWithModules\order-service\src\main\java\com\felixlaura\OrderServiceApplication.java
 C:\Users\Felix Laura\Downloads\FelixFiles\ProgrammingTechie\springBootMicroServiceWithModules\order-service\src\main\java\com\felixlaura\service\OrderService.java
 C:\Users\Felix Laura\Downloads\FelixFiles\ProgrammingTechie\springBootMicroServiceWithModules\order-service\src\main\java\com\felixlaura\dto\OrderRequest.java
 C:\Users\Felix Laura\Downloads\FelixFiles\ProgrammingTechie\springBootMicroServiceWithModules\order-service\src\main\java\com\felixlaura\controller\OrderController.java
 C:\Users\Felix Laura\Downloads\FelixFiles\ProgrammingTechie\springBootMicroServiceWithModules\order-service\src\main\java\com\felixlaura\model\Order.java
+C:\Users\Felix Laura\Downloads\FelixFiles\ProgrammingTechie\springBootMicroServiceWithModules\order-service\src\main\java\com\felixlaura\dto\InventoryResponse.java
 C:\Users\Felix Laura\Downloads\FelixFiles\ProgrammingTechie\springBootMicroServiceWithModules\order-service\src\main\java\com\felixlaura\dto\OrderLineItemsDto.java
 C:\Users\Felix Laura\Downloads\FelixFiles\ProgrammingTechie\springBootMicroServiceWithModules\order-service\src\main\java\com\felixlaura\repository\OrderRepository.java
