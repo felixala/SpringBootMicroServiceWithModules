@@ -1,11 +1,12 @@
-com\felixlaura\dto\OrderLineItemsDto.class
-com\felixlaura\repository\OrderRepository.class
-com\felixlaura\config\WebClientConfig.class
 com\felixlaura\controller\OrderController.class
 com\felixlaura\model\OrderLineItems.class
 com\felixlaura\dto\OrderRequest.class
-com\felixlaura\service\OrderService.class
 com\felixlaura\dto\InventoryResponse$InventoryResponseBuilder.class
-com\felixlaura\model\Order.class
 com\felixlaura\OrderServiceApplication.class
 com\felixlaura\dto\InventoryResponse.class
+com\felixlaura\dto\OrderLineItemsDto.class
+com\felixlaura\repository\OrderRepository.class
+com\felixlaura\config\WebClientConfig.class
+com\felixlaura\order\OrderPlacedEvent.class
+com\felixlaura\service\OrderService.class
+com\felixlaura\model\Order.class
